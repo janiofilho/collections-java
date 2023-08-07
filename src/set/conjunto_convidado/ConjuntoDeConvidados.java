@@ -1,4 +1,4 @@
-package set;
+package set.conjunto_convidado;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package set;
+package set.conjunto_palavras;
 
 import java.util.HashSet;
 import java.util.Set;
